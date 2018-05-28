@@ -1,0 +1,15 @@
+a) Easy access to the history of a file makes for a more efficient 
+programmer because you can easily grab older versions of a file before you 
+broke it or accidentally deleted it. The more comfortable you are with
+git commands, the more versatile you are as a programmer.
+
+b) You should push pretty much as often as possible. Regular interval, solving
+the next piece of the problem, or if you're done for the day. Changing the 
+approach to a problem might warrent a dulicate file to be pushed as to not
+overwrite an existing one, but you can always revert changes if need be, so
+it's not too dangerous as long as your pushes are frequent.
+
+c) Commit messages are just as important as pushes themselves. They relay
+important information not only to your later self, but to others that are also
+working on the same project. Knowing what changes have been made lets you 
+know at what point you need to revert to should the need arise.
